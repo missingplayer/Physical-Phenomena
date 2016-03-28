@@ -1,0 +1,16 @@
+[
+{
+  "modid": "PhysicalPhenomena",
+  "name": "Physical Phenomena",
+  "description": "Every sci-fi movie ever - now in the form of a mod!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bexhion"],
+  "credits": "ME! ME! ME!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
